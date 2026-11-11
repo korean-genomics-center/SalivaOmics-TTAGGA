@@ -101,5 +101,5 @@ is to the figures as numbered in the submitted manuscript.
 ## Funding
 
 Ulsan Metropolitan City Research Fund (Grant No. 1.200047.01), UNIST; and the
-National Research Foundation of Korea (NRF) grant funded by the Korea government
-(MSIT) (RS-2026-25603518).
+National Research Foundation of Korea (NRF) grants funded by the Korea government
+(MSIT) (RS-2026-25603518 and RS-2026-25600210).
