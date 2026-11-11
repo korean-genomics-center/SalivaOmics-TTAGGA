@@ -1,0 +1,17 @@
+# data / outputs are not redistributed
+*.pdf
+*.png
+*.txt.gz
+*.bed
+*.bam
+*.bai
+*.tsv
+*.csv
+*.o[0-9]*
+*.e[0-9]*
+.Rhistory
+.RData
+.DS_Store
+# but keep the small env/doc text files
+!env/*.txt
+!*.md
